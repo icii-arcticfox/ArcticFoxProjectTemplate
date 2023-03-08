@@ -7,9 +7,9 @@ This repo is designed to serve as a template for new Arctic Fox cloud projects. 
 
 ## Steps 
 1) Use one of the following methods to create an Arctic Fox repo 
-- Template. Click the green "Use this template" button, then click "Create a new repository"
-- Fork this repo
-- Import this repo, please refer to [this guide](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer) for imoprt questions
+    - Template. Click the green "Use this template" button, then click "Create a new repository"
+    - Fork this repo
+    - Import this repo, please refer to [this guide](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer) for imoprt questions
 2) Launch the repo in a codespace. 
 Refer to <a href="https://github.com/icii-arcticfox/TutorialHome#how-to-use-tutorials/" target="_blank">Tutorial How To</a> to use Arctic Fox in a codespace.
 3) Enjoy Arctic Fox!
