@@ -6,12 +6,10 @@
 This repo is designed to serve as a template for new Arctic Fox cloud projects. This project is completely empty and will take on the name of the parent repo after using the template / forked / imported. Follow the steps below to create an empty Artic Fox cloud project.
 
 ## Steps 
-1) Use one of the following methods to create a matching repository within your Github account 
-- Template. Click Template, and then select either
-  - "Create a new repository" to immediately create the repo in your account, or
-  - "Open in a codespace" to open the repo, but you will need to push to a new repo later 
+1) Use one of the following methods to create an Arctic Fox repo 
+- Template. Click the green "Use this template" button, then click "Create a new repository"
+- Fork this repo
 - Import this repo, please refer to [this guide](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer) for imoprt questions
-- Fork this repo, **make sure to uncheck main branch only** 
-2) Launch the repo in a codespace, wait for the codespace to finish building and extensions finish installing
-3) Click the Arctic Fox silhouette on the left, click Activate Arctic Fox on the bottom of the Arctic Fox panel, and enter your Arctic Fox email and password, press Activate (enter not yet supported...) 
-- Once you activate Arctic Fox, the Visual Studio Code window will reload. Once the reload is finish, you are ready to go!
+2) Launch the repo in a codespace. 
+Refer to <a href="https://github.com/icii-arcticfox/TutorialHome#how-to-use-tutorials/" target="_blank">Tutorial How To</a> to use Arctic Fox in a codespace.
+3) Enjoy Arctic Fox!
